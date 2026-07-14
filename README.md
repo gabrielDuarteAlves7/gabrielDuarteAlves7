@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, eu sou Gabriel Duarte 👋
 
-<!--
-**gabrielDuarteAlves7/gabrielDuarteAlves7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação | Back-end
 
-Here are some ideas to get you started:
+🎨 Minha jornada começou no Design, trabalhando com identidade visual,
+criação de materiais gráficos e experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou migrando para desenvolvimento de software,
+com foco em Back-end.
+
+---
+
+## 🚀 Tecnologias que estudo
+
+### Linguagens
+- Java
+- JavaScript
+- Harbour/ADVPL
+- Python
+
+### Desenvolvimento
+- APIs REST
+- Git e GitHub
+- HTML
+- CSS
+- Orientação a Objetos
+
+---
+
+## 📌 Projetos em destaque
+
+💱 Conversor de Moedas  
+Aplicação Java consumindo API externa para conversão de moedas.
+
+🎬 Oldflix  
+Projeto web desenvolvido com HTML, CSS e JavaScript.
+
+🎁 Amigo Secreto  
+Aplicação JavaScript com manipulação do DOM e lógica de sorteio.
+
+💻 JornadaDev  
+Repositório da minha evolução estudando programação.
+
+---
+
+## 🎯 Objetivo
+
+Atuar como desenvolvedor Back-end, unindo minha experiência em Design,
+criatividade e tecnologia para criar soluções eficientes.
+
+---
+
+📫 Vamos conversar!
